@@ -1,5 +1,5 @@
 resource "spaceship_crew_member" "smyshkina" {
   name        = "Katya_Smyshliaeva"
-  experience  = "10 years"
+  experience  = "8 years"
   specialty   = "Space Cat"
 }
